@@ -1,0 +1,15 @@
+{
+  "name": "bunny",
+  "version": "1.0.0",
+  "description": "it's an amazing package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bunny",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^20.0.5",
+    "express": "^5.1.0"
+  }
+}
